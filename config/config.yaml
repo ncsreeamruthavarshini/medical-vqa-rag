@@ -1,0 +1,38 @@
+project_name: medical-vqa-rag
+seed: 42
+
+model:
+  vlm_id: HuggingFaceTB/SmolVLM2-2.2B-Instruct
+  embedding_id: sentence-transformers/all-MiniLM-L6-v2
+  torch_dtype: float16
+  # auto chooses MPS on Apple Silicon, then CUDA, then CPU
+  device: auto
+
+dataset:
+  id: flaviagiammarino/vqa-rad
+  eval_split: test
+  # Development evaluation size. Use a larger value only after a smoke test works.
+  n_examples: 25
+  smoke_n_examples: 5
+  start_index: 0
+  # Never use test answers to build the knowledge base.
+  knowledge_splits_forbidden:
+    - test
+
+generation:
+  max_new_tokens: 50
+
+retrieval:
+  top_k: 3
+
+normalization:
+  strip_whitespace: true
+  lowercase: true
+  collapse_whitespace: true
+  strip_trailing_punctuation: true
+
+paths:
+  knowledge_base: data/knowledge_base/medical_knowledge.json
+  retrieval_eval_queries: data/knowledge_base/retrieval_eval_queries.json
+  results_dir: results
+  processed_dir: data/processed

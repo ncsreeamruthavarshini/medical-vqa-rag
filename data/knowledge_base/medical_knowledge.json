@@ -1,0 +1,222 @@
+[
+  {
+    "id": "kb_001",
+    "topic": "airspace consolidation",
+    "text": "Airspace consolidation on a chest radiograph appears as increased opacity in the lung when air in the alveoli is replaced by fluid, cells, or other material.",
+    "source_title": null,
+    "source_url": null,
+    "source_type": "prototype_unverified",
+    "publication_year": null,
+    "license": "Unverified provenance. Do not treat this as an authoritative citation.",
+    "status": "preliminary"
+  },
+  {
+    "id": "kb_002",
+    "topic": "lateral ventricles",
+    "text": "The lateral ventricles are paired cavities located within the cerebral hemispheres of the brain. They contain cerebrospinal fluid.",
+    "source_title": null,
+    "source_url": null,
+    "source_type": "prototype_unverified",
+    "publication_year": null,
+    "license": "Unverified provenance. Do not treat this as an authoritative citation.",
+    "status": "preliminary"
+  },
+  {
+    "id": "kb_003",
+    "topic": "kidneys",
+    "text": "The kidneys are paired organs located in the posterior abdomen, one on each side of the spine. Their visibility depends on the imaging modality and field of view.",
+    "source_title": null,
+    "source_url": null,
+    "source_type": "prototype_unverified",
+    "publication_year": null,
+    "license": "Unverified provenance. Do not treat this as an authoritative citation.",
+    "status": "preliminary"
+  },
+  {
+    "id": "kb_004",
+    "topic": "chest x-ray",
+    "text": "A chest radiograph is an X-ray examination used to visualize structures including the lungs, heart, mediastinum, diaphragm, and portions of the bony thorax.",
+    "source_title": null,
+    "source_url": null,
+    "source_type": "prototype_unverified",
+    "publication_year": null,
+    "license": "Unverified provenance. Do not treat this as an authoritative citation.",
+    "status": "preliminary"
+  },
+  {
+    "id": "kb_005",
+    "topic": "CT scan",
+    "text": "Computed tomography, or CT, uses X-rays and computer processing to produce cross-sectional images of the body.",
+    "source_title": null,
+    "source_url": null,
+    "source_type": "prototype_unverified",
+    "publication_year": null,
+    "license": "Unverified provenance. Do not treat this as an authoritative citation.",
+    "status": "preliminary"
+  },
+  {
+    "id": "kb_006",
+    "topic": "AP radiograph",
+    "text": "An anteroposterior, or AP, radiograph is obtained when the X-ray beam travels from the anterior side of the patient toward the posterior side.",
+    "source_title": null,
+    "source_url": null,
+    "source_type": "prototype_unverified",
+    "publication_year": null,
+    "license": "Unverified provenance. Do not treat this as an authoritative citation.",
+    "status": "preliminary"
+  },
+  {
+    "id": "kb_007",
+    "topic": "diaphragm",
+    "text": "The diaphragm is a dome-shaped muscle separating the thoracic cavity from the abdominal cavity. It appears as curved soft-tissue structures beneath the lungs on chest radiographs.",
+    "source_title": null,
+    "source_url": null,
+    "source_type": "prototype_unverified",
+    "publication_year": null,
+    "license": "Unverified provenance. Do not treat this as an authoritative citation.",
+    "status": "preliminary"
+  },
+  {
+    "id": "kb_008",
+    "topic": "lung parenchyma",
+    "text": "The lung parenchyma refers to the functional tissue of the lungs. Abnormalities of the lung parenchyma may appear as changes in opacity or other radiographic findings.",
+    "source_title": null,
+    "source_url": null,
+    "source_type": "prototype_unverified",
+    "publication_year": null,
+    "license": "Unverified provenance. Do not treat this as an authoritative citation.",
+    "status": "preliminary"
+  },
+  {
+    "id": "kb_009",
+    "topic": "aortic aneurysm",
+    "text": "An aortic aneurysm is an abnormal enlargement or dilation of a portion of the aorta. Imaging can be used to identify and characterize an aortic aneurysm.",
+    "source_title": null,
+    "source_url": null,
+    "source_type": "prototype_unverified",
+    "publication_year": null,
+    "license": "Unverified provenance. Do not treat this as an authoritative citation.",
+    "status": "preliminary"
+  },
+  {
+    "id": "kb_010",
+    "topic": "temporal bone",
+    "text": "The temporal bones are paired bones located on the sides and base of the skull. Imaging can be used to evaluate them for fractures or other abnormalities.",
+    "source_title": null,
+    "source_url": null,
+    "source_type": "prototype_unverified",
+    "publication_year": null,
+    "license": "Unverified provenance. Do not treat this as an authoritative citation.",
+    "status": "preliminary"
+  },
+  {
+    "id": "kb_v001",
+    "topic": "chest x-ray",
+    "text": "A chest x-ray is an x-ray of the chest, lungs, heart, large arteries, ribs, and diaphragm. It is a common imaging test and uses a small amount of radiation.",
+    "source_title": "MedlinePlus: Chest x-ray",
+    "source_url": "https://medlineplus.gov/ency/article/003804.htm",
+    "source_type": "government_encyclopedia",
+    "publication_year": null,
+    "license": "U.S. government MedlinePlus encyclopedia page. Short educational paraphrase for research use; verify the live page before publication.",
+    "status": "source_recorded"
+  },
+  {
+    "id": "kb_v002",
+    "topic": "CT scan",
+    "text": "A computed tomography (CT) scan is an imaging method that uses x-rays to create pictures of cross-sections of the body. Computers combine the images into detailed slices.",
+    "source_title": "MedlinePlus: CT scan",
+    "source_url": "https://medlineplus.gov/ency/article/003330.htm",
+    "source_type": "government_encyclopedia",
+    "publication_year": null,
+    "license": "U.S. government MedlinePlus encyclopedia page. Short educational paraphrase for research use; verify the live page before publication.",
+    "status": "source_recorded"
+  },
+  {
+    "id": "kb_v003",
+    "topic": "MRI",
+    "text": "Magnetic resonance imaging (MRI) uses a large magnet, radio waves, and a computer to make detailed pictures of organs and structures inside the body. MRI does not use ionizing x-ray radiation.",
+    "source_title": "MedlinePlus: MRI",
+    "source_url": "https://medlineplus.gov/ency/article/003335.htm",
+    "source_type": "government_encyclopedia",
+    "publication_year": null,
+    "license": "U.S. government MedlinePlus encyclopedia page. Short educational paraphrase for research use; verify the live page before publication.",
+    "status": "source_recorded"
+  },
+  {
+    "id": "kb_v004",
+    "topic": "kidneys",
+    "text": "The kidneys are a pair of bean-shaped organs on either side of the spine in the back of the abdomen. They filter blood, remove waste, and help control fluid balance.",
+    "source_title": "MedlinePlus: Kidney",
+    "source_url": "https://medlineplus.gov/ency/article/002247.htm",
+    "source_type": "government_encyclopedia",
+    "publication_year": null,
+    "license": "U.S. government MedlinePlus encyclopedia page. Short educational paraphrase for research use; verify the live page before publication.",
+    "status": "source_recorded"
+  },
+  {
+    "id": "kb_v005",
+    "topic": "aortic aneurysm",
+    "text": "An aneurysm is an abnormal widening or ballooning of a portion of an artery caused by weakness in the vessel wall. An aortic aneurysm involves the aorta, the major artery that carries blood from the heart.",
+    "source_title": "MedlinePlus: Abdominal aortic aneurysm",
+    "source_url": "https://medlineplus.gov/ency/article/000162.htm",
+    "source_type": "government_encyclopedia",
+    "publication_year": null,
+    "license": "U.S. government MedlinePlus encyclopedia page. Short educational paraphrase for research use; verify the live page before publication.",
+    "status": "source_recorded"
+  },
+  {
+    "id": "kb_v006",
+    "topic": "pneumonia",
+    "text": "Pneumonia is a lung infection that can cause the air sacs of the lungs to fill with fluid or pus. Chest imaging may be used as part of evaluation, but a text description cannot determine whether pneumonia is present in a particular image.",
+    "source_title": "MedlinePlus: Pneumonia",
+    "source_url": "https://medlineplus.gov/ency/article/000145.htm",
+    "source_type": "government_encyclopedia",
+    "publication_year": null,
+    "license": "U.S. government MedlinePlus encyclopedia page. Short educational paraphrase for research use; verify the live page before publication.",
+    "status": "source_recorded"
+  },
+  {
+    "id": "kb_v007",
+    "topic": "brain ventricles",
+    "text": "The brain has fluid-filled spaces called ventricles. Cerebrospinal fluid is produced in the ventricles and cushions the brain and spinal cord.",
+    "source_title": "MedlinePlus: Hydrocephalus",
+    "source_url": "https://medlineplus.gov/ency/article/001571.htm",
+    "source_type": "government_encyclopedia",
+    "publication_year": null,
+    "license": "U.S. government MedlinePlus encyclopedia page. Short educational paraphrase for research use; verify the live page before publication.",
+    "status": "source_recorded"
+  },
+  {
+    "id": "kb_v008",
+    "topic": "diaphragm",
+    "text": "The diaphragm is a muscle that separates the chest cavity from the abdomen. It is the main muscle used in breathing.",
+    "source_title": "MedlinePlus: Diaphragm",
+    "source_url": "https://medlineplus.gov/ency/article/002317.htm",
+    "source_type": "government_encyclopedia",
+    "publication_year": null,
+    "license": "U.S. government MedlinePlus encyclopedia page. Short educational paraphrase for research use; verify the live page before publication.",
+    "status": "source_recorded"
+  },
+  {
+    "id": "kb_v009",
+    "topic": "lateral ventricles",
+    "text": "The lateral ventricles are paired, one deep within each cerebral hemisphere. They communicate with the third ventricle and contain cerebrospinal fluid.",
+    "source_title": "OpenStax Anatomy and Physiology 2e, section 13.3 Circulation and the Central Nervous System",
+    "source_url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/13-3-circulation-and-the-central-nervous-system",
+    "source_type": "open_textbook",
+    "publication_year": 2022,
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0). Short educational paraphrase; consult the OpenStax page for the original wording.",
+    "status": "source_recorded"
+  },
+  {
+    "id": "kb_v010",
+    "topic": "temporal bone",
+    "text": "The temporal bone forms the lower lateral side of the skull. Important structures related to hearing and balance are associated with the temporal bone.",
+    "source_title": "OpenStax Anatomy and Physiology 2e, section 7.2 The Skull",
+    "source_url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/7-2-the-skull",
+    "source_type": "open_textbook",
+    "publication_year": 2022,
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0). Short educational paraphrase; consult the OpenStax page for the original wording.",
+    "status": "source_recorded"
+  }
+]

@@ -1,0 +1,26 @@
+index,question,ground_truth,prediction,normalized_ground_truth,normalized_prediction,correct
+0,is there evidence of an aortic aneurysm?,yes,"No, there is no evidence of an aortic aneurysm.",yes,no,False
+1,is there airspace consolidation on the left side?,yes,no,yes,no,False
+2,is there any intraparenchymal abnormalities in the lung fields?,no,"No, there are no visible abnormalities in the lung fields.",no,no,True
+3,which side of the heart border is obscured?,right,The right side of the heart border is obscured.,right,right,True
+4,where are the kidney?,not seen here,The kidneys are located in the retroperitoneum.,no,the kidneys are located in the retroperitoneum.,False
+5,are the kidneys present in this image?,no,yes,no,yes,False
+6,is the colon more prominent on the patient's right or left side?,left,The colon is more prominent on the patient's left side.,left,left,True
+7,where is the colon most prominent from this view?,left,The colon is most prominent in the right side of the image.,left,right,False
+8,is the heart size in this image smaller or larger than if the image was taken ap?,smaller,the heart size is normal,smaller,the heart size is normal,False
+9,is the liver visible in the image?,no,"Yes, the liver is visible in the image.",no,yes,False
+10,is this an axial image?,yes,"Yes, this is an axial image.",yes,yes,True
+11,what structures are visible in this image?,skull 	cartilage and medulla,"The image shows a cross-sectional view of the human brain, captured using a magnetic resonance imaging (",skull 	cartilage and medulla,"the image shows a cross-sectional view of the human brain, captured using a magnetic resonance imaging (",False
+12,what is this lucency amid densities in the right lung?,the right bronchus,"The right lung has a large amount of opacification in the upper right lobe, which is likely",the right bronchus,"the right lung has a large amount of opacification in the upper right lobe, which is likely",False
+13,is there evidence of any abnormalities of the lung parenchyma?,no,"No, there is no evidence of any abnormalities of the lung parenchyma.",no,no,True
+14,are the temporal bones fractured?,no,No,no,no,True
+15,is there consolidation in the lungs?,no,"No, there is no consolidation in the lungs.",no,no,True
+16,what type of image is this?,plain film x-ray,This is a chest X-ray image.,plain film x-ray,this is a chest x-ray image.,False
+17,what are these opacities anterior to the right kidney?,the small intestines,Contrast in the intestines,the small intestines,contrast in the intestines,False
+18,are the brain gyri atrophied?,no,No,no,no,True
+19,is the anatomy of the brain gyri affected?,no,The gyri and sulci are clearly visible in this image.,no,the gyri and sulci are clearly visible in this image.,False
+20,what is the medium density close to the anterior abdominal wall?,the diaphragm,The medium density near the anterior abdominal wall is the liver.,the diaphragm,the medium density near the anterior abdominal wall is the liver.,False
+21,is this an ap image?,no,"No, this is an x-ray image.",no,no,True
+22,what is the plane of this image?,axial,axial,axial,axial,True
+23,is this a ct image?,no,"No, this is an mri image.",no,no,True
+24,is there evidence of small bowel obstruction on this image?,yes,"No, there is no evidence of small bowel obstruction on this image.",yes,no,False

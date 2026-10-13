@@ -1,0 +1,44 @@
+[
+  {
+    "query_id": "rq_001",
+    "query": "Is there airspace consolidation in the lung?",
+    "relevant_ids": ["kb_001", "kb_v006"],
+    "label_type": "manual_topical",
+    "notes": "Informal topical match for the prototype knowledge base, not a gold-standard retrieval benchmark."
+  },
+  {
+    "query_id": "rq_002",
+    "query": "Where are the lateral ventricles located?",
+    "relevant_ids": ["kb_002", "kb_v009", "kb_v007"],
+    "label_type": "manual_topical",
+    "notes": "Informal topical match for the prototype knowledge base, not a gold-standard retrieval benchmark."
+  },
+  {
+    "query_id": "rq_003",
+    "query": "Where are the kidneys located?",
+    "relevant_ids": ["kb_003", "kb_v004"],
+    "label_type": "manual_topical",
+    "notes": "Informal topical match for the prototype knowledge base, not a gold-standard retrieval benchmark."
+  },
+  {
+    "query_id": "rq_004",
+    "query": "What structures can be seen on a chest radiograph?",
+    "relevant_ids": ["kb_004", "kb_v001"],
+    "label_type": "manual_topical",
+    "notes": "Informal topical match for the prototype knowledge base, not a gold-standard retrieval benchmark."
+  },
+  {
+    "query_id": "rq_005",
+    "query": "What is a CT scan?",
+    "relevant_ids": ["kb_005", "kb_v002"],
+    "label_type": "manual_topical",
+    "notes": "Informal topical match for the prototype knowledge base, not a gold-standard retrieval benchmark."
+  },
+  {
+    "query_id": "rq_006",
+    "query": "Is there evidence of an aortic aneurysm?",
+    "relevant_ids": ["kb_009", "kb_v005"],
+    "label_type": "manual_topical",
+    "notes": "Informal topical match for the prototype knowledge base, not a gold-standard retrieval benchmark."
+  }
+]

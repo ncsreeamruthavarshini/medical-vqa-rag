@@ -1,0 +1,36 @@
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.DS_Store
+.env
+*.log
+logs/
+
+# Model and dataset caches
+.cache/
+hf_cache/
+*.bin
+*.pt
+*.pth
+*.safetensors
+*.onnx
+*.gguf
+
+# Generated retrieval artifacts
+data/processed/
+data/external/
+*.faiss
+*.index
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Notebooks checkpoints
+.ipynb_checkpoints/
